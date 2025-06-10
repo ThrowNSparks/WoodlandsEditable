@@ -246,7 +246,8 @@
             "Enraged Corrupted Rex",
             "Enraged Triceratops",
             "Bunny Oviraptor",
-            "Bunny Dodo"
+            "Bunny Dodo",
+            "Beans"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -494,7 +495,8 @@
             "/Game/Extinction/Dinos/Corrupt/Rex/MegaRex_Character_BP_Corrupt.MegaRex_Character_BP_Corrupt_C",
             "/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt_C",
             "/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny_C"
+            "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny_C",
+            "/Game/PrimalEarth/Dinos/Beans/beans.beans"
         ],
         "dinosaddle": [
             "",
@@ -748,7 +750,9 @@
             ""
         ],
         "eos ids": [
-            "00026fc170f94cf3952b89ed771ad121"
+            "00026fc170f94cf3952b89ed771ad121",
+            "1234567890",
+            "0987654321"
         ]
     }
 }
