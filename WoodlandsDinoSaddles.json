@@ -247,7 +247,7 @@
             "Enraged Triceratops",
             "Bunny Oviraptor",
             "Bunny Dodo",
-            "Beans"
+            "Rhyniognatha"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -496,7 +496,7 @@
             "/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt_C",
             "/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny_C",
-            "/Game/PrimalEarth/Dinos/Beans/beans.beans"
+            "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -745,9 +745,7 @@
             "",
             "",
             "",
-            "",
-            "",
-            ""
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
