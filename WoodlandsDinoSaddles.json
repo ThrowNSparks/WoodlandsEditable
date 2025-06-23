@@ -247,7 +247,13 @@
             "Enraged Triceratops",
             "Bunny Oviraptor",
             "Bunny Dodo",
-            "Rhyniognatha"
+            "Rhyniognatha",
+            "Veilwyn",
+            "Armadoggo",
+            "Cat",
+            "Griffin",
+            "Ice Wyvern",
+            "Bison",
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -496,7 +502,13 @@
             "/Game/Extinction/Dinos/Corrupt/Trike/MegaTrike_Character_BP_Corrupt.MegaTrike_Character_BP_Corrupt_C",
             "/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP_Bunny.Dodo_Character_BP_Bunny_C",
-            "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
+            "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP",
+            "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP",
+            "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP",
+            "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
+            "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP",
+            "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice",
+            "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP"   
         ],
         "dinosaddle": [
             "",
@@ -746,6 +758,12 @@
             "",
             "",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle",
+            "",
+            "/Game/Packs/Wasteland/Dinos/Doggo/PrimalItemArmor_DinoCompanionSaddle_Doggo.PrimalItemArmor_DinoCompanionSaddle_Doggo",
+            "",
+            "",
+            "",
+            "/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
