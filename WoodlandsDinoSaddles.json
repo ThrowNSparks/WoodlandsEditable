@@ -251,7 +251,6 @@
             "Veilwyn",
             "Armadoggo",
             "Cat",
-            "Griffin",
             "Ice Wyvern",
             "Bison",
         ],
@@ -506,7 +505,6 @@
             "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP",
             "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP",
             "/Game/ASA/Dinos/Cat/Cat_Character_BP.Cat_Character_BP",
-            "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP",
             "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice",
             "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP"   
         ],
@@ -760,7 +758,6 @@
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle",
             "",
             "/Game/Packs/Wasteland/Dinos/Doggo/PrimalItemArmor_DinoCompanionSaddle_Doggo.PrimalItemArmor_DinoCompanionSaddle_Doggo",
-            "",
             "",
             "",
             "/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle"
