@@ -301,7 +301,16 @@
             "V-Bulbdog",
             "V-Featherlight",
             "V-Glowtail",
-            "V-Shinehorn"
+            "V-Shinehorn",
+            "Z-Carnotaurus",
+            "Pyromane",
+            "Dreadmare",
+            "Deinotherium",
+            "Deinosuchus",
+            "Archelon",
+            "Gigantoraptor",
+            "Yi Ling",
+            "Cosmo"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -604,7 +613,16 @@
             "/V-Dinos/V-Shinepets/V-Bulbdog/V-Lanternpug_Character_BP.V-Lanternpug_Character_BP",
             "/V-Dinos/V-Shinepets/V-Featherlight/V-Lanternbird_Character_BP.V-Lanternbird_Character_BP",
             "/V-Dinos/V-Shinepets/V-Glowtail/V-Lanternlizard_Character_BP.V-Lanternlizard_Character_BP",
-            "/V-Dinos/V-Shinepets/V-Shinehorn/V-Lanterngoat_Character_BP.V-Lanterngoat_Character_BP"
+            "/V-Dinos/V-Shinepets/V-Shinehorn/V-Lanterngoat_Character_BP.V-Lanterngoat_Character_BP",
+            "/Z-DinoVariants/z-carno/Z_Carno_Character_BP.Z_Carno_Character_BP",
+            "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP",
+            "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP",
+            "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP",
+            "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP",
+            "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
+            "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP",
+            "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP",
+            "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -907,7 +925,15 @@
             "",
             "",
             "",
-            ""
+            "",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle",
+            "",
+            "",
+            "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA",
+            "/Game/ASA/Dinos/Deinosuchus/Saddle/PrimalItemArmor_Deinosuchus_Saddle_ASA.PrimalItemArmor_Deinosuchus_Saddle_ASA",
+            "/Game/ASA/Dinos/Archelon/Dinos/Saddle/PrimalItem_Armor_Archelon_Saddle_ASA.PrimalItem_Armor_Archelon_Saddle_ASA",
+            "/Game/ASA/Dinos/Gigantoraptor/PrimalItemArmor_GigantoraptorSaddle.PrimalItemArmor_GigantoraptorSaddle",
+            "/Game/ASA/Dinos/YiLing/PrimalItemArmor_YiLingSaddle.PrimalItemArmor_YiLingSaddle",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -915,7 +941,8 @@
             "00025bec01334bb28e7b4ea4ced2ca7f",
             "0002ab72265b408b85f08c5465fcde4a",
             "000245b3eb0c4befb0937818fd5258cb",
-            "000242fc04014e688b42ecdd1bea3f78"
+            "000242fc04014e688b42ecdd1bea3f78",
+            "0002b8620d67445b87a142906bdbada1"
         ]
     }
 }
