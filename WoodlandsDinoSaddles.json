@@ -402,7 +402,8 @@
             "Tek-Reaper King",
             "Cyclops",
             "Minotaur",
-            "Seahorse"
+            "Seahorse",
+            "Oasisaur",
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -806,7 +807,8 @@
             "/Zytharian_Critters_Tek_Collection/Creatures/Tek_Reaper/Xenomorph_Character_BP_Male_Tamed_Tek.Xenomorph_Character_BP_Male_Tamed_Tek",
             "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP",
             "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP",
-            "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP"
+            "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
+            "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP",
         ],
         "dinosaddle": [
             "",
@@ -1210,7 +1212,8 @@
             "",
             "/AstraeosCreatures/Cyclops/Saddle/PrimalItemArmor_CyclopsSaddle.PrimalItemArmor_CyclopsSaddle",
             "/AstraeosCreatures/Minotaur/Saddle/PrimalItemArmor_MinotaurSaddle.PrimalItemArmor_MinotaurSaddle",
-            "/AstraeosCreatures/Seahorse/Saddle/PrimalItemArmor_SeahorseSaddle.PrimalItemArmor_SeahorseSaddle"
+            "/AstraeosCreatures/Seahorse/Saddle/PrimalItemArmor_SeahorseSaddle.PrimalItemArmor_SeahorseSaddle",
+            "",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
