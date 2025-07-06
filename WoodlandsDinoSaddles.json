@@ -404,6 +404,8 @@
             "Minotaur",
             "Seahorse",
             "Oasisaur",
+            "Dreadnoughtus",
+            "Z-Giga",
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -809,6 +811,8 @@
             "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP",
             "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP",
             "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP",
+            "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP",
+            "/Z-DinoVariants/z-giga/Z_Gigant_Character_BP.Z_Gigant_Character_BP",
         ],
         "dinosaddle": [
             "",
@@ -1214,6 +1218,8 @@
             "/AstraeosCreatures/Minotaur/Saddle/PrimalItemArmor_MinotaurSaddle.PrimalItemArmor_MinotaurSaddle",
             "/AstraeosCreatures/Seahorse/Saddle/PrimalItemArmor_SeahorseSaddle.PrimalItemArmor_SeahorseSaddle",
             "",
+            "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1223,7 +1229,8 @@
             "000245b3eb0c4befb0937818fd5258cb",
             "000242fc04014e688b42ecdd1bea3f78",
             "0002b8620d67445b87a142906bdbada1",
-            "000294a990be43a6a187963a23e7ee25"
+            "000294a990be43a6a187963a23e7ee25",
+            "0002efe9a3f846d6bf34a83385b523f0"
         ]
     }
 }
