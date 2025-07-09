@@ -406,6 +406,11 @@
             "Oasisaur",
             "Dreadnoughtus",
             "Z-Giga",
+            "Aberrant Thorax Spider",
+            "Jungle Thorax Spider",
+            "Magnus Spider",
+            "Snow Thorax Spider",
+            "Thorax Spider"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -813,6 +818,11 @@
             "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP",
             "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP",
             "/Z-DinoVariants/z-giga/Z_Gigant_Character_BP.Z_Gigant_Character_BP",
+            "/CyrusJumpingSpider/Content/Spider/Jumper/Abberant/AbThoraxSpider_Character_BP.AbThoraxSpider_Character_BP",
+            "/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Jungle/JungleThoraxSpider_Character_BP.JungleThoraxSpider_Character_BP",
+            "/CyrusJumpingSpider/Content/Spider/Jumper/CuteThoraxSpider_Character_BP.CuteThoraxSpider_Character_BP",
+            "/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Snow/SnowThoraxSpider_Character_BP.SnowThoraxSpider_Character_BP",
+            "/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1220,6 +1230,11 @@
             "",
             "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+            "",
+            "",
+            "",
+            "",
+            "",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
