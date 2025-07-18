@@ -410,7 +410,14 @@
             "Jungle Thorax Spider",
             "Magnus Spider",
             "Snow Thorax Spider",
-            "Thorax Spider"
+            "Thorax Spider",
+            "Z-Gigantoraptor",
+            "Z-Megatherium",
+            "V-Cat",
+            "Tek Giganotosaurus",
+            "Z-Doedicurus",
+            "Maeguana",
+            "V-Veilwyn"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -822,7 +829,14 @@
             "/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Jungle/JungleThoraxSpider_Character_BP.JungleThoraxSpider_Character_BP",
             "/CyrusJumpingSpider/Content/Spider/Jumper/CuteThoraxSpider_Character_BP.CuteThoraxSpider_Character_BP",
             "/CyrusJumpingSpider/Content/Spider/Jumper/Variants/Snow/SnowThoraxSpider_Character_BP.SnowThoraxSpider_Character_BP",
-            "/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP"
+            "/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP",
+            "/Z-DinoVariants/z-gigantoraptor/Z_Gigantoraptor_Character_BP.Z_Gigantoraptor_Character_BP",
+            "/Z-DinoVariants/z-megatherium/Z_Megatherium_Character_BP.Z_Megatherium_Character_BP",
+            "/V-Dinos/V-Cat/V-Cat_Character_BP.V-Cat_Character_BP",
+            "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP",
+            "/Z-DinoVariants/z-doedicurus/Z_Doed_Character_BP.Z_Doed_Character_BP",
+            "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP",
+            "/V-Dinos/V-Veilwyn/V-YoungIceFox_DinoCompanion_Character_BP.V-YoungIceFox_DinoCompanion_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1235,6 +1249,13 @@
             "/CyrusJumpingSpider/Content/Spider/Jumper/Saddle/PrimalItemArmor_ThoraxSaddle.PrimalItemArmor_ThoraxSaddle",
             "/CyrusJumpingSpider/Content/Spider/Jumper/Saddle/PrimalItemArmor_ThoraxSaddle.PrimalItemArmor_ThoraxSaddle",
             "/CyrusJumpingSpider/Content/Spider/Jumper/Saddle/PrimalItemArmor_ThoraxSaddle.PrimalItemArmor_ThoraxSaddle",
+            "/Game/ASA/Dinos/Gigantoraptor/PrimalItemArmor_GigantoraptorSaddle.PrimalItemArmor_GigantoraptorSaddle",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle",
+            "",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DoedSaddle.PrimalItemArmor_DoedSaddle",
+            "/Game/ASA/Dinos/Maelizard/PrimalItemArmor_MaelizardSaddle.PrimalItemArmor_MaelizardSaddle",
+            "",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
