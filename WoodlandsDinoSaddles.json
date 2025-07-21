@@ -417,7 +417,11 @@
             "Tek Giganotosaurus",
             "Z-Doedicurus",
             "Maeguana",
-            "V-Veilwyn"
+            "V-Veilwyn",
+            "Z-Firewyvern",
+            "Z-Ab-Firewyvern",
+            "Z-Trike",
+            "Z-Ab-Trike"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -754,7 +758,7 @@
             "/Z-DinoVariants/z-wilddoghyaenodon/Z_WilddogHyaenodon_Character_BP.Z_WilddogHyaenodon_Character_BP",
             "/Z-DinoVariants/z-direbear/Z_Direbear_Character_BP.Z_Direbear_Character_BP",
             "/Z-DinoVariants/z-direwolf/Z_Direwolf_Character_BP.Z_Direwolf_Character_BP",
-            "/Z-DinoVariants/z-sino/Z_Sinomacrops_Character_BP.Z_Sinomacrops_Character_BP",
+            "/Z-DinoVariants/z-sino/Z_Sinomacrops_Character_BP.Z_Sinomacrops_Character_BP_ASA",
             "/Z-DinoVariants/z-ovis/Z_Ovis_Character_BP.Z_Ovis_Character_BP",
             "/Z-DinoVariants/z-thyla/Z_Thylacoleo_Character_BP.Z_Thylacoleo_Character_BP",
             "/Z-DinoVariants/z-procoptodon/Z_Procoptodon_Character_BP.Z_Procoptodon_Character_BP",
@@ -836,7 +840,11 @@
             "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP",
             "/Z-DinoVariants/z-doedicurus/Z_Doed_Character_BP.Z_Doed_Character_BP",
             "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP",
-            "/V-Dinos/V-Veilwyn/V-YoungIceFox_DinoCompanion_Character_BP.V-YoungIceFox_DinoCompanion_Character_BP"
+            "/V-Dinos/V-Veilwyn/V-YoungIceFox_DinoCompanion_Character_BP.V-YoungIceFox_DinoCompanion_Character_BP",
+            "/Z-DinoVariants/z-firewyvern/Z_Fire_Wyvern_Character_BP.Z_Fire_Wyvern_Character_BP",
+            "/Z-DinoVariants/z-firewyvern/Z_Aberrant_Fire_Wyvern_Character_BP.Z_Aberrant_Fire_Wyvern_Character_BP",
+            "/Z-DinoVariants/z-trike/Z_Aberrant_Trike_Character_BP.Z_Aberrant_Trike_Character_BP",
+            "/Z-DinoVariants/z-trike/Z_Trike_Character_BP.Z_Trike_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1256,6 +1264,10 @@
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DoedSaddle.PrimalItemArmor_DoedSaddle",
             "/Game/ASA/Dinos/Maelizard/PrimalItemArmor_MaelizardSaddle.PrimalItemArmor_MaelizardSaddle",
             "",
+            "",
+            "",
+            "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle",
+            "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
