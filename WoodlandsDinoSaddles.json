@@ -420,8 +420,8 @@
             "V-Veilwyn",
             "Z-Firewyvern",
             "Z-Ab-Firewyvern",
-            "Z-Trike",
-            "Z-Ab-Trike"
+            "Z-Ab-Trike",
+            "Z-Trike"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
