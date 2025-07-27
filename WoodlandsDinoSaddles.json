@@ -421,7 +421,13 @@
             "Z-Firewyvern",
             "Z-Ab-Firewyvern",
             "Z-Ab-Trike",
-            "Z-Trike"
+            "Z-Trike",
+            "V-Griffin",
+            "V-Drakeling Autumn",
+            "V-Drakeling Spring",
+            "V-Drakeling Summer",
+            "V-Drakeling Winter",
+            "V-Drakeling Lost Oasis"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -844,7 +850,14 @@
             "/Z-DinoVariants/z-firewyvern/Z_Fire_Wyvern_Character_BP.Z_Fire_Wyvern_Character_BP",
             "/Z-DinoVariants/z-firewyvern/Z_Aberrant_Fire_Wyvern_Character_BP.Z_Aberrant_Fire_Wyvern_Character_BP",
             "/Z-DinoVariants/z-trike/Z_Aberrant_Trike_Character_BP.Z_Aberrant_Trike_Character_BP",
-            "/Z-DinoVariants/z-trike/Z_Trike_Character_BP.Z_Trike_Character_BP"
+            "/Z-DinoVariants/z-trike/Z_Trike_Character_BP.Z_Trike_Character_BP",
+            "/V-Dinos/V-Griffin/V-Griffin_Character_BP.V-Griffin_Character_BP",
+            "/V-Dinos/V-Drakelings/Autumn/V-ShoulderDragon_Character_BP_Autumn.V-ShoulderDragon_Character_BP_Autumn",
+            "/V-Dinos/V-Drakelings/Spring/V-ShoulderDragon_Character_BP_Spring.V-ShoulderDragon_Character_BP_Spring",
+            "/V-Dinos/V-Drakelings/Summer/V-ShoulderDragon_Character_BP_Summer.V-ShoulderDragon_Character_BP_Summer",
+            "/V-Dinos/V-Drakelings/Winter/V-ShoulderDragon_Character_BP_Winter.V-ShoulderDragon_Character_BP_Winter",
+            "/V-Dinos/V-Drakelings/Lost/V-ShoulderDragon_Character_BP_Lost.V-ShoulderDragon_Character_BP_Lost",
+            
         ],
         "dinosaddle": [
             "",
@@ -1268,6 +1281,12 @@
             "",
             "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle",
             "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1278,7 +1297,8 @@
             "000242fc04014e688b42ecdd1bea3f78",
             "0002b8620d67445b87a142906bdbada1",
             "000294a990be43a6a187963a23e7ee25",
-            "0002efe9a3f846d6bf34a83385b523f0"
+            "0002efe9a3f846d6bf34a83385b523f0",
+            "000220b8e2e541b69269aba81353a204"
         ]
     }
 }
