@@ -428,7 +428,8 @@
             "V-Drakeling Summer",
             "V-Drakeling Winter",
             "V-Drakeling Lost Oasis",
-            "V-Monkeys"
+            "V-Monkeys",
+            "Helicoprion"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -858,7 +859,8 @@
             "/V-Dinos/V-Drakelings/Summer/V-ShoulderDragon_Character_BP_Summer.V-ShoulderDragon_Character_BP_Summer",
             "/V-Dinos/V-Drakelings/Winter/V-ShoulderDragon_Character_BP_Winter.V-ShoulderDragon_Character_BP_Winter",
             "/V-Dinos/V-Drakelings/Lost/V-ShoulderDragon_Character_BP_Lost.V-ShoulderDragon_Character_BP_Lost",
-            "V-Dinos/V-Monkeys/V-Monkey_Character_BP.V-Monkey_Character_BP"
+            "/V-Dinos/V-Monkeys/V-Monkey_Character_BP.V-Monkey_Character_BP",
+            "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1288,7 +1290,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            "/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1308,6 +1311,7 @@
         ]
     }
 }
+
 
 
 
