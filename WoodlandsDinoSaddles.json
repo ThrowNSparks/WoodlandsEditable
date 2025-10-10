@@ -443,7 +443,7 @@
             "Ghost Basilisk",
             "Ghost Mantis",
             "Ghost Reaper King",
-            "Ghost Snow Owl",
+            "Ghost Snow Owl"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -888,7 +888,7 @@
             "/FearEvolved/Dinos/Ghost_Basilisk_Character_BP_FE.Ghost_Basilisk_Character_BP_FE",
             "/FearEvolved/Dinos/Ghost_Mantis_Character_BP_FE.Ghost_Mantis_Character_BP_FE",
             "/FearEvolved/Dinos/Ghost_Xenomorph_Character_BP_Male_Surface_FE.Ghost_Xenomorph_Character_BP_Male_Surface_FE",
-            "Blueprint'/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP",
+            "Blueprint'/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1333,7 +1333,7 @@
             "/Game/Aberration/Dinos/Basilisk/PrimalItemArmor_BasiliskSaddle.PrimalItemArmor_BasiliskSaddle",
             "/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle",
             "",
-            "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle",
+            "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1354,13 +1354,3 @@
         ]
     }
 }
-
-
-
-
-
-
-
-
-
-
