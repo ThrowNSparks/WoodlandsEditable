@@ -1328,7 +1328,7 @@
             "",
             "",
             "",
-            "".
+            "",
             "",
             "/Game/Aberration/Dinos/Basilisk/PrimalItemArmor_BasiliskSaddle.PrimalItemArmor_BasiliskSaddle",
             "/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle",
@@ -1354,6 +1354,7 @@
         ]
     }
 }
+
 
 
 
