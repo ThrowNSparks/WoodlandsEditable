@@ -430,7 +430,20 @@
             "V-Drakeling Lost Oasis",
             "V-Monkeys",
             "Helicoprion",
-            "V-Therizino"
+            "V-Therizino",
+            "Megaraptor",
+            "Deinonychus",
+            "Megapithecus",
+            "Ghost Rex",
+            "Mesopithecus",
+            "Elderclaw",
+            "Yeti",
+            "Ghost Direwolf",
+            "Ghost Bulbdog",
+            "Ghost Basilisk",
+            "Ghost Mantis",
+            "Ghost Reaper King",
+            "Ghost Snow Owl",
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -863,6 +876,19 @@
             "/V-Dinos/V-Monkeys/V-Monkey_Character_BP.V-Monkey_Character_BP",
             "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP",
             "/V-Dinos/V-Therizino/V-Therizino_Character_BP.V-Therizino_Character_BP",
+            "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP",
+            "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP",
+            "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP",
+            "/FearEvolved/Dinos/Ghost_Rex_Character_BP_FE.Ghost_Rex_Character_BP_FE",
+            "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP",
+            "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP",
+            "/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP",
+            "/FearEvolved/Dinos/Ghost_Direwolf_Character_BP_FE.Ghost_Direwolf_Character_BP_FE",
+            "/FearEvolved/Dinos/Ghost_LanternPug_Character_BP_FE.Ghost_LanternPug_Character_BP_FE",
+            "/FearEvolved/Dinos/Ghost_Basilisk_Character_BP_FE.Ghost_Basilisk_Character_BP_FE",
+            "/FearEvolved/Dinos/Ghost_Mantis_Character_BP_FE.Ghost_Mantis_Character_BP_FE",
+            "/FearEvolved/Dinos/Ghost_Xenomorph_Character_BP_Male_Surface_FE.Ghost_Xenomorph_Character_BP_Male_Surface_FE",
+            "Blueprint'/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP",
         ],
         "dinosaddle": [
             "",
@@ -1295,6 +1321,19 @@
             "",
             "/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle",
+            "/Game/ASA/Dinos/Megaraptor/PrimalItemArmor_ValMegaraptorSaddle.PrimalItemArmor_ValMegaraptorSaddle",
+            "/Game/Valguero/Dinos/Deinonychus/PrimalItemArmor_DeinonychusSaddle.PrimalItemArmor_DeinonychusSaddle",
+            "",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle",
+            "",
+            "",
+            "",
+            "".
+            "",
+            "/Game/Aberration/Dinos/Basilisk/PrimalItemArmor_BasiliskSaddle.PrimalItemArmor_BasiliskSaddle",
+            "/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle",
+            "",
+            "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle",
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1315,6 +1354,7 @@
         ]
     }
 }
+
 
 
 
