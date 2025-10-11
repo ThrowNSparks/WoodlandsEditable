@@ -444,6 +444,10 @@
             "Ghost Mantis",
             "Ghost Reaper King",
             "Ghost Snow Owl"
+            "Chalk Elemental",
+            "Ice Elemental",
+            "V-GhostDodo",
+            "SlayerDodoRex"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -888,7 +892,11 @@
             "/Game/Aberration/Dinos/Basilisk/Ghost_Basilisk_Character_BP.Ghost_Basilisk_Character_BP",
             "/Game/ScorchedEarth/Dinos/Mantis/Ghost_Mantis_Character_BP.Ghost_Mantis_Character_BP",
             "/Game/Aberration/Dinos/Nameless/Ghost_Xenomorph_Character_BP_Male_Surface.Ghost_Xenomorph_Character_BP_Male_Surface",
-            "/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP"
+            "/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP",
+            "/Game/ASA/Dinos/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP",
+            "/Game/ASA/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP",
+            "/V-Dinos/V-GhostDodo/V-GhostDodo_Character_BP.V-GhostDodo_Character_BP",
+            "/V-Dinos/SlayerVariants/SlayerDodorex/SlayerDodoRex_Character_BP.SlayerDodoRex_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1333,7 +1341,11 @@
             "/Game/Aberration/Dinos/Basilisk/PrimalItemArmor_BasiliskSaddle.PrimalItemArmor_BasiliskSaddle",
             "/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle",
             "",
-            "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle"
+            "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_OwlSaddle.PrimalItemArmor_OwlSaddle",
+            "/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle",
+            "/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle",
+            "",
+            ""
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
