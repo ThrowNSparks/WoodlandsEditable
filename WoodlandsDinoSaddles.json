@@ -447,7 +447,8 @@
             "Chalk Elemental",
             "Ice Elemental",
             "V-GhostDodo",
-            "SlayerDodoRex"
+            "SlayerDodoRex",
+            "V-Megaraptor"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -896,7 +897,8 @@
             "/Game/ASA/Dinos/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP",
             "/Game/ASA/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP",
             "/V-Dinos/V-GhostDodo/V-GhostDodo_Character_BP.V-GhostDodo_Character_BP",
-            "/V-Dinos/SlayerVariants/SlayerDodorex/SlayerDodoRex_Character_BP.SlayerDodoRex_Character_BP"
+            "/V-Dinos/SlayerVariants/SlayerDodorex/SlayerDodoRex_Character_BP.SlayerDodoRex_Character_BP",
+            "/V-Megaraptor/V-ValMegaraptor_Character_BP.V-ValMegaraptor_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1345,7 +1347,8 @@
             "/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle",
             "/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle",
             "",
-            ""
+            "",
+            "/Game/ASA/Dinos/Megaraptor/PrimalItemArmor_ValMegaraptorSaddle.PrimalItemArmor_ValMegaraptorSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1366,4 +1369,5 @@
         ]
     }
 }
+
 
