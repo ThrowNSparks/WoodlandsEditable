@@ -439,7 +439,11 @@
             "V-Megaraptor",
             "Aberrant Doedicurus",
             "Aberrant Megalania",
-            "V-Hesperornis"
+            "V-Hesperornis",
+            "V-Tusoteuthis",
+            "V-Direwolf",
+            "Z-Griffin",
+            "Ossidon"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -880,7 +884,11 @@
             "/V-Dinos/V-Megaraptor/V-ValMegaraptor_Character_BP.V-ValMegaraptor_Character_BP",
             "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant",
             "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant",
-            "/V-Dinos/V-Hesperonis/V-Hesperornis_Character_BP.V-Hesperornis_Character_BP"
+            "/V-Dinos/V-Hesperonis/V-Hesperornis_Character_BP.V-Hesperornis_Character_BP",
+            "/V-Dinos/V-Tusoteuthis/V-Tusoteuthis_Character_BP.V-Tusoteuthis_Character_BP",
+            "/V-Dinos/Content/V-Direwolf/V-Direwolf_Character_BP.V-Direwolf_Character_BP",
+            "/Z-DinoVariants/z-griffin/Z_Griffin_Character_BP.Z_Griffin_Character_BP",
+            "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1321,7 +1329,11 @@
             "/Game/ASA/Dinos/Megaraptor/PrimalItemArmor_ValMegaraptorSaddle.PrimalItemArmor_ValMegaraptorSaddle",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DoedSaddle.PrimalItemArmor_DoedSaddle",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalaniaSaddle.PrimalItemArmor_MegalaniaSaddle_C",
-            ""
+            "",
+            "",
+            "",
+            "",
+            "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1343,4 +1355,5 @@
         ]
     }
 }
+
 
