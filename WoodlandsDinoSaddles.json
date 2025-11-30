@@ -900,9 +900,9 @@
             "/V-Dinos/V-Megalodon/V-Minilodon/V-Minilodon_Character_BP.V-Minilodon_Character_BP",
             "/V-Dinos/V-Beelzebufo/V-Toad_Character_BP.V-Toad_Character_BP",
             "/V-Dinos/V-Araneo/V-SpiderS_Character_BP.V-SpiderS_Character_BP",
-            "/V-Dinos/Content/V-Equus/V-Equus_Character_BP.V-Equus_Character_BP",
-            "/V-Dinos/Content/V-Megalosaurus/V-Megalosaurus_Character_BP.V-Megalosaurus_Character_BP",
-            "/V-Dinos/Content/V-Bison/V-Bison_Character_BP.V-Bison_Character_BP"
+            "/V-Dinos/V-Equus/V-Equus_Character_BP.V-Equus_Character_BP",
+            "/V-Dinos/V-Megalosaurus/V-Megalosaurus_Character_BP.V-Megalosaurus_Character_BP",
+            "/V-Dinos/V-Bison/V-Bison_Character_BP.V-Bison_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1376,6 +1376,7 @@
         ]
     }
 }
+
 
 
 
