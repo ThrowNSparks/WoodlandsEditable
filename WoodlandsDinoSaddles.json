@@ -443,7 +443,13 @@
             "V-Tusoteuthis",
             "V-Direwolf",
             "Z-Griffin",
-            "Ossidon"
+            "Ossidon",
+            "V-Megalodon",
+            "V-Minilodon",
+            "V-Toad",
+            "V-Araneo",
+            "V-Equus",
+            "V-Megalosaurus"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -888,7 +894,13 @@
             "/V-Dinos/V-Tusoteuthis/V-Tusoteuthis_Character_BP.V-Tusoteuthis_Character_BP",
             "/V-Dinos/Content/V-Direwolf/V-Direwolf_Character_BP.V-Direwolf_Character_BP",
             "/Z-DinoVariants/z-griffin/Z_Griffin_Character_BP.Z_Griffin_Character_BP",
-            "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP"
+            "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP",
+            "/V-Dinos/V-Megalodon/V-Megalodon_Character_BP.V-Megalodon_Character_BP",
+            "/V-Dinos/V-Megalodon/V-Minilodon/V-Minilodon_Character_BP.V-Minilodon_Character_BP",
+            "/V-Dinos/V-Beelzebufo/V-Toad_Character_BP.V-Toad_Character_BP",
+            "/V-Dinos/V-Araneo/V-SpiderS_Character_BP.V-SpiderS_Character_BP",
+            "/V-Dinos/Content/V-Equus/V-Equus_Character_BP.V-Equus_Character_BP",
+            "/V-Dinos/Content/V-Megalosaurus/V-Megalosaurus_Character_BP.V-Megalosaurus_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1333,7 +1345,13 @@
             "",
             "",
             "",
-            "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle"
+            "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalodonSaddle.PrimalItemArmor_MegalodonSaddle_C",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1355,5 +1373,6 @@
         ]
     }
 }
+
 
 
