@@ -456,7 +456,8 @@
             "V-Reindeer",
             "V-Cnidaria",
             "V-Carcha",
-            "V-Basilosaurus"
+            "V-Basilosaurus",
+            "V-Compy"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -914,7 +915,8 @@
             "/V-Dinos/V-Stag/V-Stag_Character_BP.V-Stag_Character_BP",
             "/V-Dinos/V-Cnidaria/V-Cnidaria_Character_BP.V-Cnidaria_Character_BP",
             "/V-Dinos/V-Carcha/V-Carcha_Character_BP.V-Carcha_Character_BP",
-            "/V-Dinos/V-Basilosaurus/V-Basilosaurus_Character_BP.V-Basilosaurus_Character_BP"
+            "/V-Dinos/V-Basilosaurus/V-Basilosaurus_Character_BP.V-Basilosaurus_Character_BP",
+            "/V-Dinos/V-Compy/V-Compy_Character_BP.V-Compy_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1372,7 +1374,8 @@
             "",
             "",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
-            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle_C"
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle_C",
+            ""
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1394,11 +1397,3 @@
         ]
     }
 }
-
-
-
-
-
-
-
-
