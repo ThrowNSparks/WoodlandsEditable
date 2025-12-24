@@ -900,7 +900,7 @@
             "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP_Aberrant.Megalania_Character_BP_Aberrant",
             "/V-Dinos/V-Hesperonis/V-Hesperornis_Character_BP.V-Hesperornis_Character_BP",
             "/V-Dinos/V-Tusoteuthis/V-Tusoteuthis_Character_BP.V-Tusoteuthis_Character_BP",
-            "/V-Dinos/Content/V-Direwolf/V-Direwolf_Character_BP.V-Direwolf_Character_BP",
+            "/V-Dinos/V-Direwolf/V-Direwolf_Character_BP.V-Direwolf_Character_BP",
             "/Z-DinoVariants/z-griffin/Z_Griffin_Character_BP.Z_Griffin_Character_BP",
             "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP",
             "/V-Dinos/V-Megalodon/V-Megalodon_Character_BP.V-Megalodon_Character_BP",
@@ -1397,3 +1397,4 @@
         ]
     }
 }
+
