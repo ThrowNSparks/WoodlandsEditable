@@ -450,7 +450,13 @@
             "V-Araneo",
             "V-Equus",
             "V-Megalosaurus",
-            "V-Bison"
+            "V-Bison",
+            "V-Deinonychus",
+            "V-Moschops",
+            "V-Reindeer",
+            "V-Cnidaria",
+            "V-Carcha",
+            "V-Basilosaurus"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -902,7 +908,13 @@
             "/V-Dinos/V-Araneo/V-SpiderS_Character_BP.V-SpiderS_Character_BP",
             "/V-Dinos/V-Equus/V-Equus_Character_BP.V-Equus_Character_BP",
             "/V-Dinos/V-Megalosaurus/V-Megalosaurus_Character_BP.V-Megalosaurus_Character_BP",
-            "/V-Dinos/V-Bison/V-Bison_Character_BP.V-Bison_Character_BP"
+            "/V-Dinos/V-Bison/V-Bison_Character_BP.V-Bison_Character_BP",
+            "/V-Dinos/V-Deinosuchus/V-Deinosuchusasa_Character_BP.V-Deinosuchusasa_Character_BP",
+            "/V-Dinos/V-Moschops/V-Moschops_Character_BP.V-Moschops_Character_BP",
+            "/V-Dinos/V-Stag/V-Stag_Character_BP.V-Stag_Character_BP",
+            "/V-Dinos/V-Cnidaria/V-Cnidaria_Character_BP.V-Cnidaria_Character_BP",
+            "/V-Dinos/V-Carcha/V-Carcha_Character_BP.V-Carcha_Character_BP",
+            "/V-Dinos/V-Basilosaurus/V-Basilosaurus_Character_BP.V-Basilosaurus_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1354,7 +1366,13 @@
             "",
             "",
             "",
-            "/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle"
+            "/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle",
+            "",
+            "",
+            "",
+            "",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle_C"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1376,6 +1394,7 @@
         ]
     }
 }
+
 
 
 
