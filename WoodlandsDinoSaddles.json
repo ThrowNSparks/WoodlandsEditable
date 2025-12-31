@@ -457,7 +457,13 @@
             "V-Cnidaria",
             "V-Carcha",
             "V-Basilosaurus",
-            "V-Compy"
+            "V-Compy",
+            "Aureliax",
+            "Gloon",
+            "Solwyn",
+            "Veilwyn Ghost",
+            "Cryolophosaurus",
+            "Malwyn"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -916,7 +922,13 @@
             "/V-Dinos/V-Cnidaria/V-Cnidaria_Character_BP.V-Cnidaria_Character_BP",
             "/V-Dinos/V-Carcha/V-Carcha_Character_BP.V-Carcha_Character_BP",
             "/V-Dinos/V-Basilosaurus/V-Basilosaurus_Character_BP.V-Basilosaurus_Character_BP",
-            "/V-Dinos/V-Compy/V-Compy_Character_BP.V-Compy_Character_BP"
+            "/V-Dinos/V-Compy/V-Compy_Character_BP.V-Compy_Character_BP",
+            "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP.SnowDragon_Character_BP",
+            "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP",
+            "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP",
+            "/Game/LostColony/Dinos/YoungIceFox/Ghost/Ghost_YoungIceFox_DinoCompanion_Character_BP.Ghost_YoungIceFox_DinoCompanion_Character_BP",
+            "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP",
+            "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1375,7 +1387,13 @@
             "",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle_C",
-            ""
+            "",
+            "/Game/LostColony/Dinos/SnowDragon/PrimalItemArmor_SnowDragonSaddle.PrimalItemArmor_SnowDragonSaddle",
+            "",
+            "/Game/LostColony/Dinos/AngelFox/PrimalItemArmor_AngelFoxSaddle.PrimalItemArmor_AngelFoxSaddle",
+            "",
+            "/Game/ASA/Dinos/Cryolophosaurus/Saddle/PrimalItemArmor_CryoSaddle.PrimalItemArmor_CryoSaddle",
+            "/Game/LostColony/Dinos/DevilFox/PrimalItemArmor_DevilFoxSaddle.PrimalItemArmor_DevilFoxSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
