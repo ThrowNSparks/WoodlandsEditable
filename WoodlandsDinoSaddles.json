@@ -463,7 +463,13 @@
             "Solwyn",
             "Veilwyn Ghost",
             "Cryolophosaurus",
-            "Malwyn"
+            "Malwyn",
+            "V-Tapejara",
+            "V-Poison Wyvern",
+            "V-Lightning Wyvern",
+            "V-Velonasaur Sniping",
+            "V-Velonasaur Exploding",
+            "V-Velonasaur Burst"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -928,7 +934,13 @@
             "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP",
             "/Game/LostColony/Dinos/YoungIceFox/Ghost/Ghost_YoungIceFox_DinoCompanion_Character_BP.Ghost_YoungIceFox_DinoCompanion_Character_BP",
             "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP",
-            "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP"
+            "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP",
+            "/V-Dinos/V-Tapejara/V-Tapejara_Character_BP.V-Tapejara_Character_BP",
+            "/V-Dinos/V-Wyverns/V-PoisonWyvern/V-Wyvern_Character_BP_Poison.V-Wyvern_Character_BP_Poison",
+            "/V-Dinos/V-Wyverns/V-LightningWyvern/V-Wyvern_Character_BP_Lightning.V-Wyvern_Character_BP_Lightning",
+            "/V-Dinos/V-Velonasaur/SniperSpindles/V-SpindlesOneShot_Character_BP.V-SpindlesOneShot_Character_BP",
+            "/V-Dinos/V-Velonasaur/ExplodingSpindles/V-SpindlesExploding_Character_BP.V-SpindlesExploding_Character_BP",
+            "/V-Dinos/V-Velonasaur/BurstSpindles/V-SpindlesBurst_Character_BP.V-SpindlesBurst_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1393,7 +1405,13 @@
             "/Game/LostColony/Dinos/AngelFox/PrimalItemArmor_AngelFoxSaddle.PrimalItemArmor_AngelFoxSaddle",
             "",
             "/Game/ASA/Dinos/Cryolophosaurus/Saddle/PrimalItemArmor_CryoSaddle.PrimalItemArmor_CryoSaddle",
-            "/Game/LostColony/Dinos/DevilFox/PrimalItemArmor_DevilFoxSaddle.PrimalItemArmor_DevilFoxSaddle"
+            "/Game/LostColony/Dinos/DevilFox/PrimalItemArmor_DevilFoxSaddle.PrimalItemArmor_DevilFoxSaddle",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
@@ -1418,4 +1436,3 @@
         ]
     }
 }
-
