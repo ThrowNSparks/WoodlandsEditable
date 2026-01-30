@@ -469,7 +469,8 @@
             "V-Lightning Wyvern",
             "V-Velonasaur Sniping",
             "V-Velonasaur Exploding",
-            "V-Velonasaur Burst"
+            "V-Velonasaur Burst",
+            "V-Neophyte"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -940,7 +941,8 @@
             "/V-Dinos/V-Wyverns/V-LightningWyvern/V-Wyvern_Character_BP_Lightning.V-Wyvern_Character_BP_Lightning",
             "/V-Dinos/V-Velonasaur/SniperSpindles/V-SpindlesOneShot_Character_BP.V-SpindlesOneShot_Character_BP",
             "/V-Dinos/V-Velonasaur/ExplodingSpindles/V-SpindlesExploding_Character_BP.V-SpindlesExploding_Character_BP",
-            "/V-Dinos/V-Velonasaur/BurstSpindles/V-SpindlesBurst_Character_BP.V-SpindlesBurst_Character_BP"
+            "/V-Dinos/V-Velonasaur/BurstSpindles/V-SpindlesBurst_Character_BP.V-SpindlesBurst_Character_BP",
+            "/V-Dinos/V-Neophyte/V-Neophyte_Character_BP.V-Neophyte_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -1411,6 +1413,7 @@
             "",
             "",
             "",
+            "",
             ""
         ],
         "eosids": [
@@ -1436,3 +1439,4 @@
         ]
     }
 }
+
