@@ -784,7 +784,8 @@
             "Rhyniognatha Drone",
             "Skeleton Piercer",
             "Skeleton Snarer",
-            "Skeleton Warden"
+            "Skeleton Warden",
+            "Acrocanthosaurus"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -1570,7 +1571,8 @@
             "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Rhynio/RhynioDrone_Character_BP.RhynioDrone_Character_BP",
             "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Skeletons/Skeleton_Character_BP_WithCrossbow.Skeleton_Character_BP_WithCrossbow",
             "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Skeletons/Skeleton_Character_BP_WithBola.Skeleton_Character_BP_WithBola",
-            "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Skeletons/Skeleton_Character_BP_Fighter.Skeleton_Character_BP_Fighter"
+            "/Game/Mods/Astraeos/Assets/CoreBlueprints/Creatures/Skeletons/Skeleton_Character_BP_Fighter.Skeleton_Character_BP_Fighter",
+            "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -2356,7 +2358,8 @@
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle",
             "",
             "",
-            ""
+            "",
+            "Game/ASA/Dinos/Acrocanthosaurus/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
