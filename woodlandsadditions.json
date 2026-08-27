@@ -897,7 +897,13 @@
             "Thrall Forgemaster",
             "Thrall Marksman",
             "Thrall Miniboss",
-            "V-Mantis"
+            "V-Mantis",
+            "Boaratos",
+            "Kroaratos",
+            "Astral Boaratos",
+            "Concavenator",
+            "Aberrant Concavenator",
+            "X-Concavenator"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -1796,7 +1802,13 @@
             "/Game/LostColony/Missions/Overworld/Outpost/Dinos/Thrall/IndustrialBoss/Thrall_Character_BP_MiniBoss_Industrial.Thrall_Character_BP_MiniBoss_Industrial",
             "/Game/LostColony/Missions/Overworld/Outpost/Dinos/Thrall/RangedBoss/Thrall_Character_BP_MiniBoss_Ranged.Thrall_Character_BP_MiniBoss_Ranged",
             "/Game/LostColony/Missions/Overworld/Outpost/Dinos/Thrall/Thrall_Character_BP_MiniBoss.Thrall_Character_BP_MiniBoss",
-            "/V-Dinos/V-Mantis/V-Mantis_Character_BP.V-Mantis_Character_BP"
+            "/V-Dinos/V-Mantis/V-Mantis_Character_BP.V-Mantis_Character_BP",
+            "/Game/ASA/Dinos/Boaratos/Boaratos_Character_BP.Boaratos_Character_BP",
+            "/Game/ASA/Dinos/Boaratos/Boss/Boaratos_Character_BP_BOSS.Boaratos_Character_BP_BOSS",
+            "/Game/ASA/Dinos/Boaratos/MegaBoaratos_Character_BP.MegaBoaratos_Character_BP",
+            "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP.Concavenator_Character_BP",
+            "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP_Aberrant.Concavenator_Character_BP_Aberrant",
+            "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -2695,7 +2707,13 @@
             "",
             "",
             "",
-            "/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle_C"
+            "/Game/ScorchedEarth/Dinos/Mantis/PrimalItemArmor_MantisSaddle.PrimalItemArmor_MantisSaddle_C",
+            "/Game/ASA/Dinos/Boaratos/Saddles/PrimalItemArmor_BoaratosSaddle.PrimalItemArmor_BoaratosSaddle",
+            "",
+            "",
+            "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
+            "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
+            "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
