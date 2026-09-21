@@ -903,7 +903,9 @@
             "Astral Boaratos",
             "Concavenator",
             "Aberrant Concavenator",
-            "X-Concavenator"
+            "X-Concavenator",
+            "V-Trilobite",
+            "V-Magmasaur"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -1808,7 +1810,9 @@
             "/Game/ASA/Dinos/Boaratos/MegaBoaratos_Character_BP.MegaBoaratos_Character_BP",
             "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP.Concavenator_Character_BP",
             "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP_Aberrant.Concavenator_Character_BP_Aberrant",
-            "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP"
+            "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP",
+            "/V-Dinos/V-Trilobite/V-Trilobite_Character_BP.V-Trilobite_Character_BP",
+            "/V-Dinos/V-Magmasaur/V-Cherufe_Character_BP.V-Cherufe_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -2713,7 +2717,9 @@
             "",
             "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
             "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
-            "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle"
+            "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
+            "",
+            ""
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
