@@ -905,7 +905,9 @@
             "Aberrant Concavenator",
             "X-Concavenator",
             "V-Trilobite",
-            "V-Magmasaur"
+            "V-Magmasaur",
+            "Cerberax",
+            "Gargantar"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -1812,7 +1814,9 @@
             "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP_Aberrant.Concavenator_Character_BP_Aberrant",
             "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP",
             "/V-Dinos/V-Trilobite/V-Trilobite_Character_BP.V-Trilobite_Character_BP",
-            "/V-Dinos/V-Magmasaur/V-Cherufe_Character_BP.V-Cherufe_Character_BP"
+            "/V-Dinos/V-Magmasaur/V-Cherufe_Character_BP.V-Cherufe_Character_BP",
+            "/Game/ASA/Dinos/Cerberus/Cerberus_Character_BP.Cerberus_Character_BP",
+            "/Game/Dragontopia/Dragons/GasBagRhino/Gargantar_Character_BP.Gargantar_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -2719,7 +2723,9 @@
             "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
             "/Game/ASA/Dinos/Concavenator/Saddle/PrimalItemArmor_ConcavenatorSaddle.PrimalItemArmor_ConcavenatorSaddle",
             "",
-            "/Game/Genesis/Dinos/Cherufe/PrimalItemArmor_CherufeSaddle.PrimalItemArmor_CherufeSaddle_C"
+            "/Game/Genesis/Dinos/Cherufe/PrimalItemArmor_CherufeSaddle.PrimalItemArmor_CherufeSaddle_C",
+            "/Game/ASA/Dinos/Cerberus/PrimalItemArmor_CerberusSaddle.PrimalItemArmor_CerberusSaddle",
+            "/Game/Dragontopia/Dragons/GasBagRhino/Saddle/PrimalItemArmor_GargantarSaddle.PrimalItemArmor_GargantarSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
