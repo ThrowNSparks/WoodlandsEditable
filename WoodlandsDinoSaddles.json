@@ -963,7 +963,14 @@
             "S-Triceratops",
             "S-Unicorn",
             "S-Velonasaur",
-            "S-Yutyrannus"
+            "S-Yutyrannus",
+            "Tidepup Ghost (Large)",
+            "Tidepup Ghost (Small)",
+            "Burrowbuck Ghost",
+            "Gargantar Ghost",
+            "Bloodstalker Ghost",
+            "Therizinosaurus Ghost",
+            "Megaraptor Ghost"
         ],
         "dino": [
             "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
@@ -1928,7 +1935,14 @@
             "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP",
             "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn",
             "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP",
-            "/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP"
+            "/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP",
+            "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Large/Ghost_Axolotl_Large_Character_BP.Ghost_Axolotl_Large_Character_BP",
+            "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Ghost_Axolotl_Small_Character_BP.Ghost_Axolotl_Small_Character_BP",
+            "/Game/ASA/Dinos/Jackalope/Ghost_Jackalope_Character_BP.Ghost_Jackalope_Character_BP",
+            "/Game/Dragontopia/Dragons/GasBagRhino/Ghost_Gargantar_Character_BP.Ghost_Gargantar_Character_BP",
+            "/Game/Genesis/Dinos/BogSpider/Ghost_BogSpider_Character_BP.Ghost_BogSpider_Character_BP",
+            "/Game/PrimalEarth/Dinos/Therizinosaurus/Ghost_Therizino_Character_BP.Ghost_Therizino_Character_BP",
+            "/Game/ASA/Dinos/Megaraptor/Ghost_ValMegaraptor_Character_BP.Ghost_ValMegaraptor_Character_BP"
         ],
         "dinosaddle": [
             "",
@@ -2893,7 +2907,14 @@
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C",
             "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_EquusSaddle.PrimalItemArmor_EquusSaddle_C",
             "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_SpindlesSaddle.PrimalItemArmor_SpindlesSaddle_C",
-            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle_C"
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle_C",
+            "/Game/Packs/TidesOfFortune/Dinos/Axolotl/PrimalItemArmor_AxolotlSaddle.PrimalItemArmor_AxolotlSaddle",
+            "/Game/Packs/TidesOfFortune/Dinos/Axolotl/PrimalItemArmor_AxolotlSaddle.PrimalItemArmor_AxolotlSaddle",
+            "/Game/ASA/Dinos/Jackalope/PrimalItemArmor_JackalopeSaddle.PrimalItemArmor_JackalopeSaddle",
+            "/Game/Dragontopia/Dragons/GasBagRhino/Saddle/PrimalItemArmor_GargantarSaddle.PrimalItemArmor_GargantarSaddle",
+            "",
+            "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle_C",
+            "/Game/ASA/Dinos/Megaraptor/PrimalItemArmor_ValMegaraptorSaddle.PrimalItemArmor_ValMegaraptorSaddle"
         ],
         "eosids": [
             "00020649524a41bca4c19639f9f4d6de",
